@@ -27,7 +27,7 @@ git clone https://github.com/yourusername/dengue-gene-expression-analysis.git
 cd dengue-gene-expression-analysis
 
 - Programming language used: Python
-- 
+
 - main libraries:pandas, seaborn, matplotlib, numpy, scikit-learn, bootstrapped
 
 # License
