@@ -9,6 +9,7 @@ This project analyzes gene expression profiles related to Dengue fever and Dengu
 The dataset used in this analysis is based on the GEO dataset GDS5093. It includes:
 
 Gene expression data (dengue_data.csv): Contains gene expression levels for each sample.
+
 Metadata (dengue_metadata.csv): Contains information about the disease state (Convalescent, Dengue Fever, Dengue Hemorrhagic Fever, or Healthy Control) for each sample.
 
 # Findings
