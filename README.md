@@ -17,12 +17,23 @@ Visualized clustering of samples across disease states using PCA and hierarchica
 
 The SVM model demonstrated limitations in accurately distinguishing between Dengue fever and Dengue hemorrhagic fever, with a mean accuracy of 63%.
 
-Installation
+# Installation
 
 Clone the repository:
 
 git clone https://github.com/yourusername/dengue-gene-expression-analysis.git
 cd dengue-gene-expression-analysis
 
-Python
-main libraries:pandas, seaborn, matplotlib, numpy, scikit-learn, bootstrapped
+- Programming language used: Python
+- 
+- main libraries:pandas, seaborn, matplotlib, numpy, scikit-learn, bootstrapped
+
+# Additonal
+
+- License
+
+This project is licensed under the MIT License.
+
+- Contact
+
+For queries, please contact Monty Nkpa. Connect with me on LinkedIn: https://www.linkedin.com/in/monty-nkpa-7a4a7623b/?originalSubdomain=uk
