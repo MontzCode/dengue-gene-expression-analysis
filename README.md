@@ -25,7 +25,6 @@ The SVM model demonstrated limitations in accurately distinguishing between Deng
 Clone the repository:
 
 git clone https://github.com/MontzCode/dengue-gene-expression-analysis.git
-cd dengue-gene-expression-analysis
 
 - Programming language used: Python
 
